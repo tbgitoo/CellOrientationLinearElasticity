@@ -16,5 +16,5 @@ __all__ = ["epsilon","sigma","getElasticBilinearForm","GetIsotropicCompressionLi
 
 
 # Import from submodules
-from simulation_utilities import *
+from simulation import *
 from orientation import *
