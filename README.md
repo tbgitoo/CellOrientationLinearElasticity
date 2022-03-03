@@ -1,3 +1,3 @@
 # CellOrientationLinearElasticity
 
-Library with ngsolve defintions for simulation of cell orientation in the context of linear elasticity and strain avoidance
+Small library to be used with netgen and ngsolve for simulation of cellular orientation in the context of linear elasticity.
