@@ -14,7 +14,7 @@ setup(name='CellOrientationLinearElasticity',
       long_description_content_type="text/markdown",
       license='MIT',
       packages=["simulation","CellOrientationLinearElasticity","orientation"],
-      install_requires=["numpy","ngsolve","netgen"],
+      install_requires=[],
       zip_safe=False,
       project_urls={
           "Bug Tracker": "https://github.com/tbgitoo/CellOrientationLinearElasticity/issues"
