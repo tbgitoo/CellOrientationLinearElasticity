@@ -1,0 +1,17 @@
+    #!/usr/bin/env bash
+set -ex
+
+
+
+bash /code/run_3D_simulation.sh
+bash /code/run_2D_simulation.sh
+
+bash /code/run_3D_evaluation.sh
+bash /code/run_2D_evaluation.sh
+
+bash /code/run_3D_visualization.sh
+bash /code/run_2D_visualization.sh
+
+
+
+

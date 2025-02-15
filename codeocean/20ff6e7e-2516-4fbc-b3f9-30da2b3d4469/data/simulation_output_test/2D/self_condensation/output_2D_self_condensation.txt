@@ -1,0 +1,82 @@
+ 2417 surface elements
+ 6021 volume elements
+ 1165 curve elements
+ 1571 points
+ 1571 points done
+ Update mesh topology
+ Update clusters
+ Update mesh topology
+ Update clusters
+assemble VOL element 279/6021assemble VOL element 560/6021assemble VOL element 841/6021assemble VOL element 1122/6021assemble VOL element 1403/6021assemble VOL element 1684/6021assemble VOL element 1965/6021assemble VOL element 2246/6021assemble VOL element 2527/6021assemble VOL element 2808/6021assemble VOL element 3089/6021assemble VOL element 3370/6021assemble VOL element 3651/6021assemble VOL element 3932/6021assemble VOL element 4213/6021assemble VOL element 4494/6021assemble VOL element 4775/6021assemble VOL element 5056/6021assemble VOL element 5332/6021assemble VOL element 5612/6021assemble VOL element 5893/6021assemble VOL element 6021/6021                                 
+assemble BND element 2417/2417                                 
+assemble VOL element 166/6021assemble VOL element 332/6021assemble VOL element 497/6021assemble VOL element 663/6021assemble VOL element 829/6021assemble VOL element 995/6021assemble VOL element 1161/6021assemble VOL element 1327/6021assemble VOL element 1492/6021assemble VOL element 1658/6021assemble VOL element 1823/6021assemble VOL element 1988/6021assemble VOL element 2153/6021assemble VOL element 2317/6021assemble VOL element 2482/6021assemble VOL element 2647/6021assemble VOL element 2812/6021assemble VOL element 2977/6021assemble VOL element 3142/6021assemble VOL element 3307/6021assemble VOL element 3472/6021assemble VOL element 3637/6021assemble VOL element 3802/6021assemble VOL element 3967/6021assemble VOL element 4132/6021assemble VOL element 4297/6021assemble VOL element 4462/6021assemble VOL element 4627/6021assemble VOL element 4792/6021assemble VOL element 4957/6021assemble VOL element 5122/6021assemble VOL element 5283/6021assemble VOL element 5448/6021assemble VOL element 5613/6021assemble VOL element 5778/6021assemble VOL element 5943/6021assemble VOL element 6021/6021                                 
+assemble BND element 2417/2417                                 
+assemble VOL element 166/6021assemble VOL element 331/6021assemble VOL element 496/6021assemble VOL element 661/6021assemble VOL element 826/6021assemble VOL element 991/6021assemble VOL element 1156/6021assemble VOL element 1321/6021assemble VOL element 1486/6021assemble VOL element 1651/6021assemble VOL element 1816/6021assemble VOL element 1981/6021assemble VOL element 2146/6021assemble VOL element 2310/6021assemble VOL element 2475/6021assemble VOL element 2640/6021assemble VOL element 2805/6021assemble VOL element 2970/6021assemble VOL element 3135/6021assemble VOL element 3300/6021assemble VOL element 3465/6021assemble VOL element 3630/6021assemble VOL element 3795/6021assemble VOL element 3960/6021assemble VOL element 4125/6021assemble VOL element 4290/6021assemble VOL element 4455/6021assemble VOL element 4620/6021assemble VOL element 4785/6021assemble VOL element 4950/6021assemble VOL element 5115/6021assemble VOL element 5280/6021assemble VOL element 5445/6021assemble VOL element 5609/6021assemble VOL element 5774/6021assemble VOL element 5939/6021assemble VOL element 6021/6021                                 
+assemble BND element 2417/2417                                 
+assemble VOL element 272/6021assemble VOL element 552/6021assemble VOL element 833/6021assemble VOL element 1113/6021assemble VOL element 1393/6021assemble VOL element 1673/6021assemble VOL element 1953/6021assemble VOL element 2233/6021assemble VOL element 2513/6021assemble VOL element 2793/6021assemble VOL element 3073/6021assemble VOL element 3353/6021assemble VOL element 3633/6021assemble VOL element 3913/6021assemble VOL element 4193/6021assemble VOL element 4473/6021assemble VOL element 4753/6021assemble VOL element 5033/6021assemble VOL element 5313/6021assemble VOL element 5593/6021assemble VOL element 5873/6021assemble VOL element 6021/6021                                 
+assemble BND element 2417/2417                                 
+setvalues element 846/6021setvalues element 1661/6021setvalues element 2411/6021setvalues element 3159/6021setvalues element 3908/6021setvalues element 4656/6021setvalues element 5406/6021setvalues element 6021/6021                                 
+setvalues element 977/6021setvalues element 1830/6021setvalues element 2631/6021setvalues element 3458/6021setvalues element 4241/6021setvalues element 4990/6021setvalues element 5760/6021setvalues element 6021/6021                                 
+setvalues element 902/6021setvalues element 1479/6021setvalues element 2054/6021setvalues element 2618/6021setvalues element 3195/6021setvalues element 3773/6021setvalues element 4345/6021setvalues element 4922/6021setvalues element 5501/6021setvalues element 6021/6021                                 
+ 2417 surface elements
+ 6021 volume elements
+ 1165 curve elements
+ 1571 points
+ 1571 points done
+ Update mesh topology
+ Update clusters
+ Update mesh topology
+ Update clusters
+assemble VOL element 278/6021assemble VOL element 556/6021assemble VOL element 834/6021assemble VOL element 1112/6021assemble VOL element 1389/6021assemble VOL element 1667/6021assemble VOL element 1945/6021assemble VOL element 2223/6021assemble VOL element 2501/6021assemble VOL element 2779/6021assemble VOL element 3057/6021assemble VOL element 3335/6021assemble VOL element 3613/6021assemble VOL element 3891/6021assemble VOL element 4169/6021assemble VOL element 4447/6021assemble VOL element 4724/6021assemble VOL element 5002/6021assemble VOL element 5280/6021assemble VOL element 5558/6021assemble VOL element 5836/6021assemble VOL element 6021/6021                                 
+assemble BND element 2417/2417                                 
+assemble VOL element 165/6021assemble VOL element 328/6021assemble VOL element 491/6021assemble VOL element 654/6021assemble VOL element 817/6021assemble VOL element 980/6021assemble VOL element 1143/6021assemble VOL element 1306/6021assemble VOL element 1469/6021assemble VOL element 1632/6021assemble VOL element 1795/6021assemble VOL element 1958/6021assemble VOL element 2121/6021assemble VOL element 2284/6021assemble VOL element 2447/6021assemble VOL element 2610/6021assemble VOL element 2773/6021assemble VOL element 2936/6021assemble VOL element 3099/6021assemble VOL element 3262/6021assemble VOL element 3425/6021assemble VOL element 3588/6021assemble VOL element 3751/6021assemble VOL element 3907/6021assemble VOL element 4070/6021assemble VOL element 4233/6021assemble VOL element 4396/6021assemble VOL element 4559/6021assemble VOL element 4722/6021assemble VOL element 4886/6021assemble VOL element 5050/6021assemble VOL element 5197/6021assemble VOL element 5342/6021assemble VOL element 5484/6021assemble VOL element 5626/6021assemble VOL element 5769/6021assemble VOL element 5912/6021assemble VOL element 6021/6021                                 
+assemble BND element 2417/2417                                 
+assemble VOL element 244/6021assemble VOL element 406/6021assemble VOL element 568/6021assemble VOL element 728/6021assemble VOL element 890/6021assemble VOL element 1052/6021assemble VOL element 1214/6021assemble VOL element 1376/6021assemble VOL element 1538/6021assemble VOL element 1688/6021assemble VOL element 1830/6021assemble VOL element 1971/6021assemble VOL element 2113/6021assemble VOL element 2255/6021assemble VOL element 2397/6021assemble VOL element 2539/6021assemble VOL element 2681/6021assemble VOL element 2823/6021assemble VOL element 2982/6021assemble VOL element 3144/6021assemble VOL element 3306/6021assemble VOL element 3468/6021assemble VOL element 3628/6021assemble VOL element 3790/6021assemble VOL element 3951/6021assemble VOL element 4113/6021assemble VOL element 4275/6021assemble VOL element 4437/6021assemble VOL element 4599/6021assemble VOL element 4762/6021assemble VOL element 4925/6021assemble VOL element 5087/6021assemble VOL element 5249/6021assemble VOL element 5411/6021assemble VOL element 5573/6021assemble VOL element 5735/6021assemble VOL element 5897/6021assemble VOL element 6021/6021                                 
+assemble BND element 2417/2417                                 
+assemble VOL element 471/6021assemble VOL element 744/6021assemble VOL element 1017/6021assemble VOL element 1294/6021assemble VOL element 1573/6021assemble VOL element 1852/6021assemble VOL element 2131/6021assemble VOL element 2410/6021assemble VOL element 2689/6021assemble VOL element 2968/6021assemble VOL element 3247/6021assemble VOL element 3526/6021assemble VOL element 3805/6021assemble VOL element 4084/6021assemble VOL element 4363/6021assemble VOL element 4642/6021assemble VOL element 4921/6021assemble VOL element 5200/6021assemble VOL element 5479/6021assemble VOL element 5758/6021assemble VOL element 6021/6021                                 
+assemble BND element 2417/2417                                 
+setvalues element 865/6021setvalues element 1732/6021setvalues element 2598/6021setvalues element 3459/6021setvalues element 4319/6021setvalues element 5178/6021setvalues element 6021/6021                                 
+setvalues element 804/6021setvalues element 1562/6021setvalues element 2306/6021setvalues element 3153/6021setvalues element 3974/6021setvalues element 4721/6021setvalues element 5575/6021setvalues element 6021/6021                                 
+setvalues element 810/6021setvalues element 1389/6021setvalues element 1966/6021setvalues element 2531/6021setvalues element 3096/6021setvalues element 3674/6021setvalues element 4254/6021setvalues element 4830/6021setvalues element 5408/6021setvalues element 5988/6021setvalues element 6021/6021                                 
+ 2417 surface elements
+ 6021 volume elements
+ 1165 curve elements
+ 1571 points
+ 1571 points done
+ Update mesh topology
+ Update clusters
+ Update mesh topology
+ Update clusters
+assemble VOL element 278/6021assemble VOL element 557/6021assemble VOL element 836/6021assemble VOL element 1115/6021assemble VOL element 1395/6021assemble VOL element 1674/6021assemble VOL element 1953/6021assemble VOL element 2232/6021assemble VOL element 2511/6021assemble VOL element 2790/6021assemble VOL element 3069/6021assemble VOL element 3348/6021assemble VOL element 3627/6021assemble VOL element 3906/6021assemble VOL element 4185/6021assemble VOL element 4464/6021assemble VOL element 4743/6021assemble VOL element 5022/6021assemble VOL element 5302/6021assemble VOL element 5581/6021assemble VOL element 5861/6021assemble VOL element 6021/6021                                 
+assemble BND element 2417/2417                                 
+assemble VOL element 161/6021assemble VOL element 321/6021assemble VOL element 481/6021assemble VOL element 641/6021assemble VOL element 801/6021assemble VOL element 961/6021assemble VOL element 1121/6021assemble VOL element 1281/6021assemble VOL element 1441/6021assemble VOL element 1600/6021assemble VOL element 1760/6021assemble VOL element 1919/6021assemble VOL element 2079/6021assemble VOL element 2239/6021assemble VOL element 2399/6021assemble VOL element 2559/6021assemble VOL element 2719/6021assemble VOL element 2879/6021assemble VOL element 3038/6021assemble VOL element 3198/6021assemble VOL element 3358/6021assemble VOL element 3518/6021assemble VOL element 3678/6021assemble VOL element 3837/6021assemble VOL element 3997/6021assemble VOL element 4157/6021assemble VOL element 4317/6021assemble VOL element 4477/6021assemble VOL element 4637/6021assemble VOL element 4797/6021assemble VOL element 4957/6021assemble VOL element 5117/6021assemble VOL element 5275/6021assemble VOL element 5434/6021assemble VOL element 5594/6021assemble VOL element 5754/6021assemble VOL element 5914/6021assemble VOL element 6021/6021                                 
+assemble BND element 2417/2417                                 
+assemble VOL element 264/6021assemble VOL element 424/6021assemble VOL element 584/6021assemble VOL element 744/6021assemble VOL element 904/6021assemble VOL element 1064/6021assemble VOL element 1224/6021assemble VOL element 1384/6021assemble VOL element 1544/6021assemble VOL element 1703/6021assemble VOL element 1863/6021assemble VOL element 2021/6021assemble VOL element 2180/6021assemble VOL element 2335/6021assemble VOL element 2495/6021assemble VOL element 2655/6021assemble VOL element 2815/6021assemble VOL element 2975/6021assemble VOL element 3134/6021assemble VOL element 3294/6021assemble VOL element 3454/6021assemble VOL element 3613/6021assemble VOL element 3772/6021assemble VOL element 3932/6021assemble VOL element 4092/6021assemble VOL element 4251/6021assemble VOL element 4411/6021assemble VOL element 4571/6021assemble VOL element 4731/6021assemble VOL element 4891/6021assemble VOL element 5048/6021assemble VOL element 5208/6021assemble VOL element 5368/6021assemble VOL element 5528/6021assemble VOL element 5676/6021assemble VOL element 5816/6021assemble VOL element 5956/6021assemble VOL element 6021/6021                                 
+assemble BND element 2417/2417                                 
+assemble VOL element 261/6021assemble VOL element 541/6021assemble VOL element 821/6021assemble VOL element 1100/6021assemble VOL element 1380/6021assemble VOL element 1660/6021assemble VOL element 1939/6021assemble VOL element 2219/6021assemble VOL element 2498/6021assemble VOL element 2778/6021assemble VOL element 3054/6021assemble VOL element 3333/6021assemble VOL element 3612/6021assemble VOL element 3891/6021assemble VOL element 4170/6021assemble VOL element 4449/6021assemble VOL element 4729/6021assemble VOL element 5009/6021assemble VOL element 5289/6021assemble VOL element 5569/6021assemble VOL element 5849/6021assemble VOL element 6021/6021                                 
+assemble BND element 2417/2417                                 
+setvalues element 862/6021setvalues element 1723/6021setvalues element 2583/6021setvalues element 3446/6021setvalues element 4309/6021setvalues element 5173/6021setvalues element 6021/6021                                 
+setvalues element 808/6021setvalues element 1625/6021setvalues element 2480/6021setvalues element 3322/6021setvalues element 4174/6021setvalues element 4986/6021setvalues element 5816/6021setvalues element 6021/6021                                 
+setvalues element 971/6021setvalues element 1548/6021setvalues element 2125/6021setvalues element 2701/6021setvalues element 3278/6021setvalues element 3856/6021setvalues element 4435/6021setvalues element 5015/6021setvalues element 5594/6021setvalues element 6021/6021                                 
+Simulation self-condensation 2D (effect of cell contraction)
+
+
+Parameters used
+
+Young modulus of the PDMS E= 980000.0 
+
+Poission ratio of the PDMS nu= 0.49 
+
+Young modulus of the cells E= 30000.0 
+
+Poission ratio of the cells nu= 0.3 
+
+Gravitational acceleration g_acc= 0 
+
+Isotropic cell contraction potential isotropic_cell_contraction= 0.3 
+
+These simulations presume symmetry with walls remaing orthogonal to y at both y=0 and y=0.35. 
+ At y=0.35, y-displacement is possible, at y=0, we fix u=0
+
+Long edge y-displacement for 0 yy-stress =  -0.0004965787923871713 
+

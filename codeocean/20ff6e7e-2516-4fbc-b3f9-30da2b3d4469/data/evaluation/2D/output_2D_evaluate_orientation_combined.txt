@@ -1,0 +1,39 @@
+ 9668 surface elements
+ 48168 volume elements
+ 2330 curve elements
+ 10148 points
+ 10148 points done
+ Update mesh topology
+ Update clusters
+ Update mesh topology
+ Update clusters
+ 9668 surface elements
+ 48168 volume elements
+ 2330 curve elements
+ 10148 points
+ 10148 points done
+ Update mesh topology
+ Update clusters
+ Update mesh topology
+ Update clusters
+ 9668 surface elements
+ 48168 volume elements
+ 2330 curve elements
+ 10148 points
+ 10148 points done
+ Update mesh topology
+ Update clusters
+ Update mesh topology
+ Update clusters
+setvalues element 12470/48168setvalues element 25243/48168setvalues element 38046/48168setvalues element 48168/48168                                 
+setvalues element 506/48168setvalues element 1213/48168setvalues element 1975/48168setvalues element 2691/48168setvalues element 3415/48168setvalues element 4160/48168setvalues element 4879/48168setvalues element 5632/48168setvalues element 6351/48168setvalues element 7066/48168setvalues element 7810/48168setvalues element 8521/48168setvalues element 9245/48168setvalues element 9975/48168setvalues element 10684/48168setvalues element 11441/48168setvalues element 12147/48168setvalues element 12888/48168setvalues element 13610/48168setvalues element 14299/48168setvalues element 14988/48168setvalues element 15620/48168setvalues element 16282/48168setvalues element 16939/48168setvalues element 17648/48168setvalues element 18397/48168setvalues element 19113/48168setvalues element 19836/48168setvalues element 20524/48168setvalues element 21257/48168setvalues element 21976/48168setvalues element 22702/48168setvalues element 23425/48168setvalues element 24150/48168setvalues element 24884/48168setvalues element 25596/48168setvalues element 26322/48168setvalues element 27014/48168setvalues element 27755/48168setvalues element 28462/48168setvalues element 29202/48168setvalues element 29899/48168setvalues element 30550/48168setvalues element 31178/48168setvalues element 31849/48168setvalues element 32552/48168setvalues element 33277/48168setvalues element 33924/48168setvalues element 34638/48168setvalues element 35361/48168setvalues element 36085/48168setvalues element 36804/48168setvalues element 37500/48168setvalues element 38245/48168setvalues element 38939/48168setvalues element 39663/48168setvalues element 40387/48168setvalues element 41091/48168setvalues element 41808/48168setvalues element 42537/48168setvalues element 43193/48168setvalues element 43810/48168setvalues element 44445/48168setvalues element 45127/48168setvalues element 45826/48168setvalues element 46526/48168setvalues element 47232/48168setvalues element 47951/48168setvalues element 48168/48168                                 
+setvalues element 772/48168setvalues element 1492/48168setvalues element 2245/48168setvalues element 2960/48168setvalues element 3701/48168setvalues element 4418/48168setvalues element 5138/48168setvalues element 5882/48168setvalues element 6603/48168setvalues element 7317/48168setvalues element 7955/48168setvalues element 8632/48168setvalues element 9372/48168setvalues element 10096/48168setvalues element 10798/48168setvalues element 11536/48168setvalues element 12244/48168setvalues element 12997/48168setvalues element 13714/48168setvalues element 14435/48168setvalues element 15161/48168setvalues element 15881/48168setvalues element 16630/48168setvalues element 17341/48168setvalues element 18084/48168setvalues element 18798/48168setvalues element 19525/48168setvalues element 20206/48168setvalues element 20868/48168setvalues element 21616/48168setvalues element 22326/48168setvalues element 23052/48168setvalues element 23764/48168setvalues element 24502/48168setvalues element 25209/48168setvalues element 25960/48168setvalues element 26646/48168setvalues element 27369/48168setvalues element 28083/48168setvalues element 28814/48168setvalues element 29531/48168setvalues element 30219/48168setvalues element 30899/48168setvalues element 31542/48168setvalues element 32214/48168setvalues element 32936/48168setvalues element 33641/48168setvalues element 34373/48168setvalues element 35083/48168setvalues element 35819/48168setvalues element 36521/48168setvalues element 37241/48168setvalues element 37956/48168setvalues element 38663/48168setvalues element 39332/48168setvalues element 40005/48168setvalues element 40723/48168setvalues element 41446/48168setvalues element 42148/48168setvalues element 42848/48168setvalues element 43561/48168setvalues element 44264/48168setvalues element 44976/48168setvalues element 45620/48168setvalues element 46236/48168setvalues element 46853/48168setvalues element 47558/48168setvalues element 48168/48168                                 
+setvalues element 39375/48168setvalues element 48168/48168                                 
+Mean orientation angle , 2D, cells on channel bottom, self-condensation and cyclic stretch in y-direction (perpendicular to grooves).  
+   Angle in degrees relative to stretch direction =  89.40298329938473 
+
+
+Mean orientation angle, 2D, cells on channel bottom, self-condensation and cyclic stretch in x-direction (along grooves). 
+   Angle in degrees relative to stretch direction =  84.42217999757412 
+
+

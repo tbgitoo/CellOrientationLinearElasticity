@@ -1,0 +1,30 @@
+ 9668 surface elements
+ 48168 volume elements
+ 2330 curve elements
+ 10148 points
+ 10148 points done
+ Update mesh topology
+ Update clusters
+ Update mesh topology
+ Update clusters
+ 9668 surface elements
+ 48168 volume elements
+ 2330 curve elements
+ 10148 points
+ 10148 points done
+ Update mesh topology
+ Update clusters
+ Update mesh topology
+ Update clusters
+ 9668 surface elements
+ 48168 volume elements
+ 2330 curve elements
+ 10148 points
+ 10148 points done
+ Update mesh topology
+ Update clusters
+ Update mesh topology
+ Update clusters
+setvalues element 11115/48168setvalues element 22304/48168setvalues element 33960/48168setvalues element 46151/48168setvalues element 48168/48168                                 
+setvalues element 11810/48168setvalues element 23863/48168setvalues element 36036/48168setvalues element 48168/48168                                 
+setvalues element 11843/48168setvalues element 23972/48168setvalues element 36416/48168setvalues element 48168/48168                                 

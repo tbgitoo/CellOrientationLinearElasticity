@@ -1,0 +1,45 @@
+ 294 surface elements
+ 331 volume elements
+ 202 curve elements
+ 149 points
+ 149 points done
+ Update mesh topology
+ Update clusters
+ Update mesh topology
+ Update clusters
+assemble VOL element 37/331assemble VOL element 73/331assemble VOL element 109/331assemble VOL element 145/331assemble VOL element 181/331assemble VOL element 217/331assemble VOL element 253/331assemble VOL element 289/331assemble VOL element 325/331assemble VOL element 331/331                                 
+assemble BND element 294/294                                 
+setvalues element 294/294                                 
+creating low order biform on demand
+assemble VOL element 331/331                                 
+assemble BND element 294/294                                 
+assemble VOL element 10/331assemble VOL element 17/331assemble VOL element 24/331assemble VOL element 31/331assemble VOL element 38/331assemble VOL element 45/331assemble VOL element 52/331assemble VOL element 59/331assemble VOL element 66/331assemble VOL element 73/331assemble VOL element 80/331assemble VOL element 87/331assemble VOL element 94/331assemble VOL element 101/331assemble VOL element 108/331assemble VOL element 115/331assemble VOL element 122/331assemble VOL element 129/331assemble VOL element 136/331assemble VOL element 143/331assemble VOL element 150/331assemble VOL element 157/331assemble VOL element 164/331assemble VOL element 171/331assemble VOL element 178/331assemble VOL element 185/331assemble VOL element 192/331assemble VOL element 199/331assemble VOL element 206/331assemble VOL element 213/331assemble VOL element 220/331assemble VOL element 227/331assemble VOL element 234/331assemble VOL element 241/331assemble VOL element 248/331assemble VOL element 255/331assemble VOL element 262/331assemble VOL element 269/331assemble VOL element 276/331assemble VOL element 283/331assemble VOL element 290/331assemble VOL element 297/331assemble VOL element 304/331assemble VOL element 311/331assemble VOL element 318/331assemble VOL element 325/331assemble VOL element 331/331                                 
+assemble BND element 294/294                                 
+BlockJacobi Preconditioner, constructor called, #blocks = 958
+Building block 958/958BlockJacobi Preconditioner built
+assemble VOL element 305/331assemble VOL element 331/331                                 
+assemble BND element 294/294                                 
+assemble VOL element 7/331assemble VOL element 14/331assemble VOL element 21/331assemble VOL element 28/331assemble VOL element 35/331assemble VOL element 42/331assemble VOL element 49/331assemble VOL element 56/331assemble VOL element 63/331assemble VOL element 70/331assemble VOL element 77/331assemble VOL element 84/331assemble VOL element 91/331assemble VOL element 98/331assemble VOL element 105/331assemble VOL element 112/331assemble VOL element 119/331assemble VOL element 126/331assemble VOL element 133/331assemble VOL element 140/331assemble VOL element 147/331assemble VOL element 154/331assemble VOL element 161/331assemble VOL element 168/331assemble VOL element 175/331assemble VOL element 182/331assemble VOL element 189/331assemble VOL element 196/331assemble VOL element 203/331assemble VOL element 210/331assemble VOL element 217/331assemble VOL element 224/331assemble VOL element 231/331assemble VOL element 238/331assemble VOL element 245/331assemble VOL element 252/331assemble VOL element 259/331assemble VOL element 266/331assemble VOL element 273/331assemble VOL element 280/331assemble VOL element 287/331assemble VOL element 294/331assemble VOL element 301/331assemble VOL element 308/331assemble VOL element 315/331assemble VOL element 322/331assemble VOL element 329/331assemble VOL element 331/331                                 
+assemble BND element 294/294                                 
+BlockJacobi Preconditioner, constructor called, #blocks = 958
+Building block 958/958BlockJacobi Preconditioner built
+assemble VOL element 39/331assemble VOL element 75/331assemble VOL element 111/331assemble VOL element 147/331assemble VOL element 183/331assemble VOL element 219/331assemble VOL element 255/331assemble VOL element 291/331assemble VOL element 327/331assemble VOL element 331/331                                 
+assemble BND element 294/294                                 
+setvalues element 331/331                                 
+setvalues element 331/331                                 
+setvalues element 331/331                                 
+Simulation externally applied stretch 3D hydrogel geometry
+
+
+Parameters used
+
+Young modulus of the dECM-fibrin hydrogel E= 21000.0 
+
+Long-term Poission ratio of the dECM-fibrin hydrogel nu= 0.2 
+
+Gravitational acceleration g_acc= 0 
+
+Chip compression ratio chip_compression= 0.15 
+
+Orientation: Chip compression along the groove direction
+

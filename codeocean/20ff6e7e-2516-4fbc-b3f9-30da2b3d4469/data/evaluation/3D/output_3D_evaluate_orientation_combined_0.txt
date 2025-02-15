@@ -1,0 +1,25 @@
+ 4704 surface elements
+ 21184 volume elements
+ 808 curve elements
+ 4785 points
+ 4785 points done
+ Update mesh topology
+ Update clusters
+ Update mesh topology
+ Update clusters
+ 4704 surface elements
+ 21184 volume elements
+ 808 curve elements
+ 4785 points
+ 4785 points done
+ Update mesh topology
+ Update clusters
+ Update mesh topology
+ Update clusters
+setvalues element 14297/21184setvalues element 21184/21184                                 
+setvalues element 1514/21184setvalues element 2718/21184setvalues element 3895/21184setvalues element 5084/21184setvalues element 6281/21184setvalues element 7464/21184setvalues element 8667/21184setvalues element 9846/21184setvalues element 11033/21184setvalues element 12209/21184setvalues element 13389/21184setvalues element 14562/21184setvalues element 15726/21184setvalues element 16871/21184setvalues element 18012/21184setvalues element 19152/21184setvalues element 20289/21184setvalues element 21184/21184                                 
+setvalues element 21184/21184                                 
+Mean orientation angle , 3D, cells in gel in grooves, lower 100 micron layer, self-condensation and cyclic stretch in x-direction (along the grooves).  
+   Angle in degrees relative to stretch direction =  44.31592565782373 
+
+
